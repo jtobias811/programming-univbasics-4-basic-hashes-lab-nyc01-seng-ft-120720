@@ -3,9 +3,7 @@ def new_hash
 end
 
 def my_hash
-  my_hash = {
-    :name => "Gus"
-  }
+  { :name => "Gus"}
 end
 
 def pioneer
